@@ -4,9 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">👋 Hi, I'm Vishal Dangi</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal01x&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
@@ -18,6 +15,8 @@ You can click the Preview link to take a look at your changes.
 📍 **Location:** Bhopal, India  
 📩 **Email:** vishaldangi01x@gmail.com  
 💼 **[LinkedIn](https://www.linkedin.com/in/vishal-dangi-14805725b/)**  
+
+📊 **Leetcode:** [Profile](https://leetcode.com/u/Vishalx01/)  📊 **GeeksForGeeks:** [Profile](https://www.geeksforgeeks.org/user/vishaldangi_01/)  
 
 ---
 
@@ -70,14 +69,17 @@ With hands-on experience in the following, I have built **real-time applications
 
 ---
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal01x&show_icons=true&theme=tokyonight" />
+</p>
+
 ## 🏆 Achievements  
 
 🏅 **Smart India Hackathon 2024 Finalist**  
 🏅 **Leetcode Rating: 1702 | GeeksForGeeks Rating: 1802**  
 🏅 **Solved 1000+ DSA problems in C++**  
 
-📊 **Leetcode:** [Profile](https://leetcode.com/u/Vishalx01/)  
-📊 **GeeksForGeeks:** [Profile](https://www.geeksforgeeks.org/user/vishaldangi_01/)  
 
 ---
 
