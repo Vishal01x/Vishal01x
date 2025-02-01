@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 💡 Strong background in **DSA, real-time data handling, and scalable applications**.  
 🏆 **Smart India Hackathon Finalist** | **Solved 1000+ DSA problems in C++**.  
 
-📍 **Location:** Bhopal, India  
 📩 **Email:** vishaldangi01x@gmail.com  
 💼 **[LinkedIn](https://www.linkedin.com/in/vishal-dangi-14805725b/)**  
 
