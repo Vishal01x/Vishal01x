@@ -33,7 +33,7 @@ With hands-on experience in the following, I have built **real-time applications
 ### **🔹 Tools & Libraries**
 - **Dependency Injection**: Dagger Hilt, Koin  
 - **Data Handling**: Paging 3, WorkManager, Coroutines  
-- **Google SDKs**: Google Maps API, GeoFire, Directions API  
+- **Google SDKs**: Google Maps API, Geofencing, GeoFire, Directions API  
 - **Security & Authentication**: Firebase Auth, AES-256 Encryption, Single Protocol  
 
 ### **🔹 Other Skills**
