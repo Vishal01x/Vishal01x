@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 📩 **Email:** vishaldangi01x@gmail.com  
 💼 **[LinkedIn](https://www.linkedin.com/in/vishal-dangi-14805725b/)**  
 
-📊 **Leetcode:** [Profile](https://leetcode.com/u/Vishalx01/)  📊 **GeeksForGeeks:** [Profile](https://www.geeksforgeeks.org/user/vishaldangi_01/)  
+📊 **Leetcode:** [Profile](https://leetcode.com/u/Vishalx01/)  
+📊 **GeeksForGeeks:** [Profile](https://www.geeksforgeeks.org/user/vishaldangi_01/)  
 
 ---
 
